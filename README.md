@@ -1,2 +1,0 @@
-# sql-challenge
-EmployeeSQL-Challenge
