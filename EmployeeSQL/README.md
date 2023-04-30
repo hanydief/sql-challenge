@@ -54,7 +54,7 @@ https://github.com/hanydief/sql-challenge/blob/main/EmployeeSQL/Output%20Screenc
 
 ## Data Analysis (20 points)
 List the employee number, last name, first name, sex, and salary of each employee (2 points)
-[Q1 Query.png](https://github.com/hanydief/sql-challenge/blob/main/EmployeeSQL/Output%20Screencapture/Q1%20Query.png)
+![Q1 Query](EmployeeSQL/Output%20Screencapture/Q1%20Query.png)
 
 List the first name, last name, and hire date for the employees who were hired in 1986 (2 points)
 [Q2 Query.png](https://github.com/hanydief/sql-challenge/blob/main/EmployeeSQL/Output%20Screencapture/Q2%20Query.png)
