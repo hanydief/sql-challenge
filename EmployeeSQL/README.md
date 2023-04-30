@@ -31,7 +31,7 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 ### Entity Relationship Diagram is included or table schemas provided for all tables (10 points)
 ![Employees_ERD on QuickDBD.png](Output%20Screencapture/QuickDBD-export%20(1).png)
-![Employees_ERD on PGAdmin.pgerd](Output%20Screencapture/Employees_ERD.png)
+![Employees_ERD on PGAdmin.png](Output%20Screencapture/Employees_ERD.png)
 
 ### Data Engineering (70 points)
 
